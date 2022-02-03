@@ -1,2 +1,1 @@
-# four-color-cards
-四色牌
+# 四色牌
